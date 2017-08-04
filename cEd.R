@@ -1,6 +1,6 @@
 #The following function is developed in response to a programming question 
 #The code with the latest changes can be found in the following GitHub repo:
-#
+#https://github.com/essi79/cEd
 #For questions contact: essi.shams@gmail.com
 
 createEdictionary <- function (a,b) {
